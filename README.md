@@ -1,2 +1,2 @@
 # storychain
-A story factory plataform
+A community story factory platform
